@@ -1,3 +1,6 @@
+""" Written by Yuan Yao 
+    with python
+"""
 import os
 from obspy import UTCDateTime
 import shutil
